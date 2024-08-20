@@ -32,4 +32,4 @@ To run this portfolio locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+   git clone https://github.com/Ronit9320/Portfolio
