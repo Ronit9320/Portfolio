@@ -123,8 +123,7 @@ import {
       iconBg: "#E6DEDD",
       date: "2024",
       points: [
-        "Completed the MERN (MongoDB, Express.js, React, Node.js) stack, focusing on full-stack application development.",
-        "Completed the MERN (MongoDB, Express.js, React, Node.js) stack, focusing on full-stack application development.",
+        "Learning the MERN (MongoDB, Express.js, React, Node.js) stack, focusing on full-stack application development.",
       ],
     },
     {
