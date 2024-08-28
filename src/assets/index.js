@@ -18,7 +18,7 @@ import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
 
 import fullstack from "./company/full-stack.png";
-import gamedev from "./company/Game.png";
+import gamedev from "./company/game.png";
 import developer from "./company/developer.png";
 import react from "./company/react.png";
 
