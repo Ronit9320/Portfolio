@@ -22,6 +22,7 @@ import gamedev from "./company/game.png";
 import developer from "./company/developer.png";
 import react from "./company/react.png";
 
+import stream  from "./stream.png";
 import pacman from "./pacman.png";
 
 export {
@@ -47,4 +48,5 @@ export {
   developer,
   react,
   pacman,
+  stream,
 };

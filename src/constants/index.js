@@ -17,6 +17,7 @@ import {
     gamedev,
     pacman,
     threejs,
+    stream,
   } from "../assets";
   
   export const navLinks = [
@@ -156,6 +157,23 @@ import {
       ],
       image: pacman,
       source_code_link: "https://github.com/Ronit9320/Pacman",
+    },
+    {
+      name: "Youtube Clone",
+      description:
+        "A clone of the Youtube website that allows users to search for videos using the Youtube v3 API.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Youtube v3 API",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: stream,
+      source_code_link: "https://github.com/Ronit9320/Youtube_Clone",
     },
   ];
   
